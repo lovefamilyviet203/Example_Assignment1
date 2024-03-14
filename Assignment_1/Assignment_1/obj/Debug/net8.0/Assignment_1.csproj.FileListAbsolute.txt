@@ -1,0 +1,14 @@
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfoInputs.cache
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.AssemblyInfo.cs
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.csproj.CoreCompileInputs.cache
+D:\C#\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.exe
+D:\C#\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.deps.json
+D:\C#\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.runtimeconfig.json
+D:\C#\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.dll
+D:\C#\Assignment_1\Assignment_1\bin\Debug\net8.0\Assignment_1.pdb
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.dll
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\refint\Assignment_1.dll
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.pdb
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\Assignment_1.genruntimeconfig.cache
+D:\C#\Assignment_1\Assignment_1\obj\Debug\net8.0\ref\Assignment_1.dll
